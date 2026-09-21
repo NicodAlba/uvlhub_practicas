@@ -12,6 +12,7 @@ features = [
     "explore",
     "featuremodel",
     "flamapy",
+    "notepad",
     "hubfile",
     "profile",
     "public",
